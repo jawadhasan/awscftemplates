@@ -1,11 +1,7 @@
 # AWS CloudFormation Demos
 
+AWS Cloud Formation - Setup a website using S3    
 
-https://hexquote.com/
+## Article
 
-
-
-
-
-
-
+[AWS Cloud Formation](https://hexquote.com/aws-cloud-formation/)    
